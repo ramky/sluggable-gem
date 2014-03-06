@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
 	s.name        = 'sluggable_ramky'
-	s.version     = "0.0.1"
+	s.version     = "0.0.2"
 	s.date        = '2014-02-26'
 	s.summary     = "A gem that creates slug"
 	s.description = "Best voting gem ever."
